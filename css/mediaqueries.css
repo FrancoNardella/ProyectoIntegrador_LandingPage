@@ -171,6 +171,22 @@
     width: 30%;
     margin: 80px auto 10px auto;
   }
+
+  .bt-enviar {
+    border-radius: 8px;
+    width: 100px;
+    margin: 20px auto;
+    background-color: #ffffff1c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    /* border: 4px solid #03fff2; */
+  }
+
+  .bt-enviar:hover {
+    color: #000000;
+    background-color: #fff;
+  }
 }
 
 @media (max-width: 992px) {
@@ -225,7 +241,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin: 0 20px;
     width: 45%;
     height: 100%;
     max-width: 900px;
@@ -267,7 +283,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -285,7 +301,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 600px;
     width: auto;
     /* border: 1px solid #ff0000; */
   }
@@ -341,7 +357,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -443,7 +459,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -483,7 +499,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 500px;
     width: auto;
     /* border: 1px solid #ff0000; */
   }
@@ -575,7 +591,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -598,7 +614,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 500px;
     width: auto;
     /* border: 1px solid #ff0000; */
   }
@@ -680,7 +696,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -703,7 +719,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: 500px;
     width: auto;
     /* border: 1px solid #ff0000; */
   }
@@ -785,7 +801,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -876,7 +892,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;
@@ -935,7 +951,7 @@
     color: #fff;
     font-weight: bold;
     background: linear-gradient(to bottom, #fff, #000000);
-    text-shadow: 0 0 1px #06a4d4, 0 0 10px #000000;
+    text-shadow: 0 0 1px #fff, 0 0 10px #000000;
     color: transparent;
     background-clip: text;
     -webkit-background-clip: text;

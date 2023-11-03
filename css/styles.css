@@ -98,7 +98,7 @@ main {
   align-items: center;
   font-size: 60px;
   width: fit-content;
-  margin: 0 auto;
+  margin: 20px auto;
   text-shadow: 0 0 1px #ffffff, 0 0 20px #000000;
   /* background: linear-gradient(to top, #fff, #06a4d4); */
   font-weight: bold;
@@ -153,8 +153,7 @@ main {
 .about-info h2 {
   text-align: center;
   font-weight: bold;
-  margin-top: 20px;
-  padding-bottom: 30px;
+  margin: 20px auto;
   background: linear-gradient(to bottom, #fff, #06a4d4);
   color: transparent;
   background-clip: text;
@@ -184,7 +183,7 @@ main {
 
 .about-info li {
   display: flex;
-  justify-content: center;
+  justify-content: justify;
   flex-direction: column;
   /* text-align: center; */
   color: #fff;
@@ -217,6 +216,7 @@ main {
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
+  margin-top: 80px;
 }
 
 .cards-conteiner {
@@ -294,11 +294,9 @@ main {
 .card-info-conteiner img {
   max-width: 250px;
   max-height: 250px;
-  /* margin: 28px 50px 0px 32px; */
 }
 
 .card-info-1 {
-  /* border: 4px solid #b3ff03; */
   display: inline-block;
   width: 100%;
   max-width: 600px;
@@ -333,10 +331,6 @@ main {
   width: 100%;
   max-width: 600px;
 }
-
-/* .card-2 h3 {
-  margin-top: -5px;
-} */
 
 .card-info-1 ul,
 .card-info-2 ul,
@@ -394,7 +388,8 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 50px 0;
+  margin-top: 100px;
+  margin-bottom: 30px;
 }
 
 .contacto-container {
@@ -440,8 +435,7 @@ input[type="email"] {
 .bt-enviar {
   border-radius: 8px;
   width: 100px;
-  margin-left: 35%;
-  margin-top: 10px;
+  margin: 20px auto;
   background-color: #ffffff1c;
   color: #fff;
   border: none;
