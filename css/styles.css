@@ -217,6 +217,7 @@ main {
   background-clip: text;
   -webkit-background-clip: text;
   margin-top: 80px;
+  /* border: 4px solid #b3ff03; */
 }
 
 .cards-conteiner {
