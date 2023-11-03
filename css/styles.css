@@ -84,7 +84,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("../Img/Fondo9.jpg");
+  background-image: url("../img/Fondo9.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -285,7 +285,7 @@ main {
   height: 100%;
   max-width: 900px;
   border-radius: 8px;
-  background-image: url("../Img/FondoDotaC.jpg");
+  background-image: url("../img/FondoDotaC.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
