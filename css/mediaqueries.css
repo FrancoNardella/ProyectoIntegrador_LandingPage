@@ -957,4 +957,9 @@
     -webkit-background-clip: text;
     /* border: 4px solid #b3ff03; */
   }
+
+  .logo-login {
+    height: 15%;
+    margin-left: 40%;
+  }
 }
